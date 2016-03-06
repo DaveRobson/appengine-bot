@@ -60,3 +60,12 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+#Intellij
+.idea
+
+#virtualenv
+venv
+
+#sonar
+.sonar
